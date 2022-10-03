@@ -1,4 +1,4 @@
-### Hi, I'm KatCote!
+### Hello there!
 - `💻 Know languages: Java and Python`
 - 🌱 I’m currently learning C++
 - `📫 The site will appear a little later`
