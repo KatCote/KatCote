@@ -6,4 +6,4 @@
 - `👻 Pronouns: He`
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katcote&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katcote&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
