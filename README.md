@@ -4,3 +4,6 @@
 - `📫 The site will appear a little later`
 - 📖 I am engaged in programming on Java since 2018
 - `👻 Pronouns: He`
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katcote&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
