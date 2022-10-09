@@ -1,6 +1,6 @@
 ### Hello there!
 - `💻 Know languages: Java and Python`
-- 🌱 I’m currently learning C
+- 🌱 I also study IC
 - `📫 The site will appear a little later`
 - 📖 I am engaged in programming on Java since 2018
 - `👻 Pronouns: He`
