@@ -1,3 +1,7 @@
+<p align="center">
+      <img src="https://i.ibb.co/5LgVMRg/CSChat4-PS.png" width="1452">
+</p>
+
 ### Hello there!
 - `💻 Know languages: Java and Python`
 - 🌱 I also learning C
