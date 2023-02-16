@@ -3,8 +3,8 @@
 </p>
 
 ### Hello there!
-- `💻 Know languages: Java and Python`
-- 🌱 I also learning C
+- `💻 Know languages: Java, C and Python`
+- 🌱 I also doing CG
 - `📫 The site will appear a little later`
 - 📖 I am engaged in programming on Java since 2018
 - `👻 Pronouns: He`
