@@ -4,7 +4,7 @@
 
 ### Hello there!
 - `💻 Know languages: Java, C and Python`
-- 🌱 I also doing CG
+- 🌱 I also doing CG and study ASM
 - `📫` http://katcote.com
 - 📖 I am engaged in programming on Java since 2018
 - `👻 Pronouns: He`
