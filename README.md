@@ -5,9 +5,11 @@
 ### Hello there!
 - `💻 Know languages: Java, C and Python`
 - 🌱 I also doing CG and study ASM
-- `📫` https://katcote.com
-- 📖 I am engaged in programming on Java since 2018
-- `👻 Pronouns: He`
+- 📫 https://katcote.com
+- `📖` `I am engaged in programming on Java since 2018`
+- 👻 Pronouns: He
+- 📚 Student of Moscow Technical University of Communication and Informatics (MTUCI)
+- `🔒 Information Security`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katcote&show_icons=true&theme=github_dark&hide_border=true)
 
