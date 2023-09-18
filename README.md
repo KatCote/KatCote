@@ -11,8 +11,13 @@
 - 📚 Student of Moscow Technical University of Communication and Informatics (MTUCI)
 - `🔒 Information Security`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katcote&show_icons=true&theme=github_dark&hide_border=true)
+#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katcote&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatCote&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KatCote&theme=dark_lover&no-frame=true)](https://github.com/KatCote/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katcote&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katcote&theme=github_dark)
+
+#
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KatCote&theme=matrix&no-frame=true&column=7&no-bg=true)](https://github.com/KatCote/github-profile-trophy)
