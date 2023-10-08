@@ -20,4 +20,4 @@
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KatCote&theme=matrix&no-frame=true&column=7&no-bg=true)](https://github.com/KatCote/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KatCote&theme=matrix&no-frame=true&column=8&no-bg=true)](https://github.com/KatCote/github-profile-trophy)
