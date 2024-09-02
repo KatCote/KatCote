@@ -7,7 +7,7 @@
 - 🌱 I also doing CG and study ASM
 - 📫 https://katcote.com
 - `📖` `I am engaged in programming on Java since 2018`
-- 👻 Pronouns: He
+- 👻 Pronouns: Attack Helicopter
 - 📚 Student of Moscow Technical University of Communication and Informatics (MTUCI)
 - `🔒 Information Security`
 
