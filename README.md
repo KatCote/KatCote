@@ -3,7 +3,7 @@
 </p>
 
 ### Hello there!
-- `💻 Know languages: Java, C and Rust`
+- `💻 Embedded developer on C`
 - 🌱 I also doing CG and study ASM
 - 📫 https://katcote.com
 - `📖` `I am engaged in programming on Java since 2018`
