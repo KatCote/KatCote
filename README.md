@@ -4,9 +4,9 @@
 
 ### Hello there!
 - `💻 Embedded developer on C`
-- 🌱 I also doing CG and study ASM
+- 🌱 I also doing CGI and Photography 
 - 📫 https://katcote.com
-- `📖` `I am engaged in programming on Java since 2018`
+- `📖` `I am engaged in programming since 2018`
 - 👻 Pronouns: Attack Helicopter
 - 📚 Student of Moscow Technical University of Communication and Informatics (MTUCI)
 - `🔒 Information Security`
